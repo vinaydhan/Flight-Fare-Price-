@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(241, 241, 126);
+    text-align: center;
+}
+
+.navbar {
+    background-color:rgb(238, 15, 52);
+}
+
+a {
+    color: #41403e;
+    size: 30ch;
+}
+
+a:hover {
+    color: #bede09;
+  }
+h3{
+    color: rgb(98, 232, 232);
+    text-align: center;
+}
+p{
+    color: rgb(74, 69, 69);
+    text-align: left;
+}
+button{
+    color: rgb(153, 238, 222);
+    
+}
